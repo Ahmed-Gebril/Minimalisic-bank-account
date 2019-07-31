@@ -7,7 +7,9 @@ Struct is the main data type used. The data collected is exported to an external
 
 
 
+Sample addition of users
 
+![Alt text](https://github.com/Ahmed-Gebril/Minimalisic-bank-account/blob/master/transactions.PNG)
 
 
 
